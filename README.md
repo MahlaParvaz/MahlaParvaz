@@ -6,8 +6,6 @@
 <hr/>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahlaparvaz&label=Profile%20views&color=0e75b6&style=flat" alt="mahlaparvaz" /> </p>
-
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 💬 Ask me about **React.js, REST API, MongoDB, Postman**
