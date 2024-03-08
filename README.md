@@ -37,7 +37,18 @@
     <img src="https://skillicons.dev/icons?i=postman,vscode,git,github,npm,vite,figma,xd,photoshop,illustrator" /><br>
     
 </div>
+<br/>
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahlaparvaz/mahlaparvaz/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahlaparvaz&show_icons=true&locale=en&layout=compact" alt="mahlaparvaz" /></p>
