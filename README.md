@@ -32,9 +32,9 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,redux,webpack,babel,reactnative" />
-    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,chartJs,mui,jest" />
-    <img src="https://skillicons.dev/icons?i=postman,vscode,git,figma,xd,photoshop,illustrator" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,redux,webpack,babel" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mui,jest" />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,git,github,npm,vite,figma,xd,photoshop,illustrator" /><br>
     
 </div>
 
