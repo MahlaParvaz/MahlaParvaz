@@ -8,7 +8,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahlaparvaz&label=Profile%20views&color=0e75b6&style=flat" alt="mahlaparvaz" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.js, Next.js, Tailwind, and TypeScript**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 💬 Ask me about **React.js, REST API, MongoDB, Postman**
 
